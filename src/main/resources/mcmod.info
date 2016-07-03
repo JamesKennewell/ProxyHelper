@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PHelper",
+  "name": "ProxyHelper",
+  "description": "A Proxy Assist for ECZ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tencao"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
